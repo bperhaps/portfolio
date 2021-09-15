@@ -58,25 +58,25 @@
 
 ### 파일 업로드 기능 구현
 
-- [PR 보기](https://github.com/woowacourse-teams/2021-pick-git/pull/100)
+- [PR 보러가기](https://github.com/woowacourse-teams/2021-pick-git/pull/100)
 
 <br/ >
 
 ### Rest docs 적용
 
-- [PR 보기](https://github.com/woowacourse-teams/2021-pick-git/pull/201)
+- [PR 보러가기](https://github.com/woowacourse-teams/2021-pick-git/pull/201)
 
 <br/ >
 
 ### Interceptor 등록 로직 자동화(어노테이션화) 구현
 
-- [PR 보기](https://github.com/woowacourse-teams/2021-pick-git/pull/466)
-- [블로그 포스팅 보기](https://bperhaps.tistory.com/entry/Component-Scan-구현하기-feat-Pickgit-Authorization-Intercepter-register)
+- [PR 보러가기](https://github.com/woowacourse-teams/2021-pick-git/pull/466)
+- [블로그 글 보러 가기](https://bperhaps.tistory.com/entry/Component-Scan-구현하기-feat-Pickgit-Authorization-Intercepter-register)
 
 <br/ >
 
 ## DB Replication
 
 - DB Replication을 통해 slave가 조회쿼리를 담당하도록 변경
-- [PR 보기](https://github.com/woowacourse-teams/2021-pick-git/pull/475)
+- [PR 보러가기](https://github.com/woowacourse-teams/2021-pick-git/pull/475)
 
