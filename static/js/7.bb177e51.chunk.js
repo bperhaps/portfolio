@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[7],{60:function(o,p,t){"use strict";t.r(p),p.default=t.p+"static/media/prologExplain.00e1a0ad.md"}}]);
+//# sourceMappingURL=7.bb177e51.chunk.js.map

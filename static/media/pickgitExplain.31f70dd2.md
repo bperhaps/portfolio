@@ -68,7 +68,7 @@
 
 <br/ >
 
-### Interceptor 등록 로직 자동화(어노테이션화) 구현
+### Interceptor Path 자동 등록(어노테이션화) 구현
 
 - [PR 보러가기](https://github.com/woowacourse-teams/2021-pick-git/pull/466)
 - [블로그 글 보러 가기](https://bperhaps.tistory.com/entry/Component-Scan-구현하기-feat-Pickgit-Authorization-Intercepter-register)

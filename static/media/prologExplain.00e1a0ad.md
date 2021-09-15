@@ -9,7 +9,7 @@
 
 <br />
 
-### Interceptor 자동 등록 구현
+### Interceptor Path 자동 등록(어노테이션화) 구현
 
 - [ISSUE 보러가기](https://github.com/woowacourse/prolog/issues/240)
 - [PR 보러가기](https://github.com/woowacourse/prolog/pull/251)

@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[6],{59:function(i,t,p){"use strict";p.r(t),t.default=p.p+"static/media/pickgitExplain.942940cc.md"}}]);
-//# sourceMappingURL=6.95d55d86.chunk.js.map
