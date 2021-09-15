@@ -75,7 +75,7 @@
 
 <br/ >
 
-## DB Replication
+### DB Replication
 
 - DB Replication을 통해 slave가 조회쿼리를 담당하도록 변경
 - [PR 보러가기](https://github.com/woowacourse-teams/2021-pick-git/pull/475)
