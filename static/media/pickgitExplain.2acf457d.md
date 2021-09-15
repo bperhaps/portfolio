@@ -4,7 +4,7 @@
 
 ### Post 프로덕션 리팩토링
 
-- [PR 보기](https://github.com/woowacourse-teams/2021-pick-git/pull/252)
+- [PR 보러가기](https://github.com/woowacourse-teams/2021-pick-git/pull/252)
 - 팀원과의 도메인 분석을 통해 Aggregate 패턴 기반으로 Post 리팩토릭 진행.
 
 <br/ >
@@ -15,7 +15,7 @@
 
 ### DirtiesContext 제거를 통한 테스트 속도 향상
 
-- [PR 바로가기](https://github.com/woowacourse-teams/2021-pick-git/pull/468)
+- [PR 보러가기](https://github.com/woowacourse-teams/2021-pick-git/pull/468)
 - 기존 Acceptance Test 및 Integration Test에 있는 DirtiesContext를 제거.   
 - db초기화를 위한 로직 추가.
 
@@ -23,7 +23,7 @@
 
 ### Acceptance Test를 도와주는 Builder 제작
 
-- [PR 바로가기](https://github.com/woowacourse-teams/2021-pick-git/pull/333)
+- [PR 보러가기](https://github.com/woowacourse-teams/2021-pick-git/pull/333)
 - RestAssured의 복잡성을 최소화 시킨 Builder 제작.
 
 <br/ >
